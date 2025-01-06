@@ -4,7 +4,6 @@
 out vec4 fragColor;
 
 // "little bridges between the CPU and GPU"
-uniform float u_time;
 uniform vec2 u_resolution;
 uniform sampler2D iChannel0; // like shaderToy
 
